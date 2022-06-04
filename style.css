@@ -1498,3 +1498,8 @@ hr {
     display: none !important;
   }
 }
+
+.center-image {
+  display:block;
+  margin:auto;
+}
